@@ -1,1 +1,1 @@
-KEY = "tu api-key aqui"
+KEY = "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"
